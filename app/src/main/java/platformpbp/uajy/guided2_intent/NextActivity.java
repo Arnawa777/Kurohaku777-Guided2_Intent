@@ -24,5 +24,6 @@ public class NextActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
     }
 }
